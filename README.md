@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo7183
-Fork on GitHub1380
 <h1 align="center">Hi 👋, I'm Quazi Mohammad Aldin Fardin</h1>
 <h3 align="center">A passionate noob frontend developer and backend devleloper from bangladesh</h3>
 
