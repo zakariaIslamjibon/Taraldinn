@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmer-quazi" alt="programmer-quazi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/quazialdin" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/quazialdin?logo=twitter&style=for-the-badge" alt="https://twitter.com/quazialdin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/QuaziAldin" target="blank"><img src="https://pbs.twimg.com/profile_images/1330105521664372737/jtU75qSQ.jpg" alt="https://twitter.com/QuaziAldin" /></a> </p>
 
 - 🔭 I’m currently working on **django**
 
