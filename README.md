@@ -5,10 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmer-quazi" alt="programmer-quazi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/QuaziAldin" target="blank"><img src="https://pbs.twimg.com/profile_images/1330105521664372737/jtU75qSQ.jpg" alt="https://twitter.com/QuaziAldin" /></a> </p>
-<a href="https://app.daily.dev/quazidev"><img src="https://api.daily.dev/devcards/b923e52b9e7d494aa4fc95496509227e.png?r=3v7" width="400" alt="Quazi Md Aldin Fardin's Dev Card"/></a>
+<!-- <p align="left"> <a href="https://twitter.com/QuaziAldin" target="blank"><img src="https://pbs.twimg.com/profile_images/1330105521664372737/jtU75qSQ.jpg" alt="https://twitter.com/QuaziAldin" /></a> </p> -->
 
 
+<div style="display:flex" >
+
+<div>
 - 🔭 I’m currently working on **django**
 
 - 🌱 I’m currently learning **python,django,ds-algo**
@@ -19,6 +21,13 @@
 
 - 📫 How to reach me **kferdoush617@gmail.com**
 
+</div>
+<div>
+<a href="https://app.daily.dev/quazidev"><img src="https://api.daily.dev/devcards/b923e52b9e7d494aa4fc95496509227e.png?r=3v7" width="400" alt="Quazi Md Aldin Fardin's Dev Card"/></a>
+
+
+</div>
+</div>
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
