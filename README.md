@@ -23,7 +23,7 @@
 
 </div>
 <div>
-<a href="https://app.daily.dev/quazidev"><img src="https://api.daily.dev/devcards/b923e52b9e7d494aa4fc95496509227e.png?r=3v7" width="400" alt="Quazi Md Aldin Fardin's Dev Card"/></a>
+<a href="https://app.daily.dev/quazidev"><img src="https://api.daily.dev/devcards/b923e52b9e7d494aa4fc95496509227e.png?r=1jb" width="400" alt="Quazi Md Aldin Fardin's Dev Card"/></a>
 
 
 </div>
