@@ -124,6 +124,10 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Taraldinn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Taraldinn&theme=default&hide_border=false" align="center" /></div>  
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taraldinn&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
@@ -142,26 +146,12 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sxp225m2swv2o3jq26ongkfdva&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
 <br/>  
+ 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
+[![](https://visitcount.itsvg.in/api?id=Taraldinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Taraldinn&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Taraldinn&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Taraldinn&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Taraldinn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
@@ -172,8 +162,4 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=Taraldinn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
