@@ -133,13 +133,11 @@
 
 
 ## Recent Blog Posts  
+
+
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Matrix Trilogy — ফুল কনসেপ্ট এক্সপ্লেইন্ড | সায়েন্টিফিক থিওরি | ইন্ডিং এক্সপ্লেইন্ড উইথ প্যারাডক্স | ফ্যাক্টস](https://blog.aldinn.com/the-matrix-trilogy/?utm_source=rss&utm_medium=rss&utm_campaign=the-matrix-trilogy)
-- [Git and GitHub Command Cheat Sheet](https://blog.aldinn.com/git-and-github-command-cheat-sheet/?utm_source=rss&utm_medium=rss&utm_campaign=git-and-github-command-cheat-sheet)
-- [গিট কনফিগারেশন &lpar;Configuring Git&rpar;](https://blog.aldinn.com/configuring-git/?utm_source=rss&utm_medium=rss&utm_campaign=configuring-git)
-- [LinkedIn কি এবং প্রোফাইল কি কিভাবে তৈরি করবেন।](https://blog.aldinn.com/how-to-create-linkedin-profile/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-create-linkedin-profile)
-- [গিট কিভাবে ইন্সটল করব ?  &lpar;Git Installing &rpar;](https://blog.aldinn.com/git-installing/?utm_source=rss&utm_medium=rss&utm_campaign=git-installing)
-<!-- BLOG-POST-LIST:END -->  
+<!-- BLOG-POST-LIST:END -->
 
 <br/>  
 
