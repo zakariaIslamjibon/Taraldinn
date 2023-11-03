@@ -6,16 +6,17 @@
 ### <div align="center">I'm Aldinn, a full-time full-stack developer 👨‍💻 working  on Python learning Djnago  🚀</div>  
   
 
-- 🔭 I’m currently working on Python   
+
   
 
-- 🌱 I’m currently learning Django Rest Framework and React  
+- 🌱 I’m currently learning vue Rest Framework and React  
   
 
-- ❓ Ask me about anything related to  Python stack and related technologies  
+
   
 
-- ⚡ Fun fact:  I had a beautiful girlfriend she left me because whole day I do code   
+- ⚡ Fun fact:  I have a beautiful girlfriend
+SHE Name is AUstro
   
 
 <br/>  
@@ -92,32 +93,23 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://twitter.com/Taraldinn" target="_blank">
+<a href="https://twitter.com/TGzakariaislam" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/Taraldinn" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Taraldinn" target="_blank">
+
+<a href="https://linkedin.com/in/zakariaislamjibon" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/Taraldinn" target="_blank">
+<a href="https://www.facebook.com/zakariaislamjibon.dev" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/Taraldinn" target="_blank">
+<a href="https://instagram.com/zakariaislamjibon.dev" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/Taraldinn" target="_blank">
+<a href="https://github.com/zakariaislamjibon" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/Taraldinn" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/Taraldinn" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+
 
 <br/>  
 
@@ -132,32 +124,5 @@
 <br/>  
 
 
-## Recent Blog Posts  
-
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31sxp225m2swv2o3jq26ongkfdva&cover_image=true&theme=default&bar_color_cover=true" /></div>  
-
-<br/>  
- 
-
-[![](https://visitcount.itsvg.in/api?id=Taraldinn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Taraldinn&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
